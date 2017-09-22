@@ -1,0 +1,7 @@
+com\calypso\boot\das_boot\App.class
+com\calypso\boot\das_boot\config\PersistenceConfiguration.class
+com\calypso\boot\das_boot\model\ShipWreck.class
+com\calypso\boot\das_boot\controller\ShipWreckController.class
+com\calypso\boot\das_boot\controller\HomeController.class
+com\calypso\boot\das_boot\controller\ShipWreckStub.class
+com\calypso\boot\das_boot\repository\ShipWreckRepository.class
